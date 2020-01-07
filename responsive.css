@@ -1,0 +1,124 @@
+/*Contact us*/
+@media screen and (max-width:1199px)
+{
+    .frm_cnt{margin-left:13em;}
+    .partnerss{margin-left:2em;}
+
+}
+@media screen and (max-width:991px)
+{
+    .frm_cnt{margin-left:5em;}
+    
+
+}
+@media screen and (max-width:400px)
+{
+ .footer-top{padding-left:0em;}
+ .newsletter input[type="email"]{width:76%;}
+    
+
+}
+
+
+@media screen and (max-width:767px)
+{
+    .frm_cnt{margin-left:2em;}
+
+}
+@media screen and (max-width:515px)
+{
+.partnerss{margin-right:2em;}
+}
+@media screen and (max-width:580px)
+{
+.main-img img{width:80%;}
+.pos-aboimg2{left:8%;}
+
+}
+@media screen and (max-width:991px) and (min-device-width:581px)
+{
+.pos-aboimg2{left:14%;}
+}
+@media screen and (max-width:992px) and (min-device-width:768px)
+{
+.banner{left:28%;}
+}
+@media screen and (max-width:767px) and (min-device-width:600px)
+{
+.banner{left:24%;}
+}
+@media screen and (max-width:599px) and (min-device-width:518px)
+{
+.banner{left:14%;}
+}
+@media screen and (max-width:517px) and (min-device-width:423px)
+{
+.banner{left:6%;}
+}
+@media screen and (max-width:422px) and (min-device-width:350px)
+{
+.banner{left:3%;}
+}
+@media screen and (max-width:1200px) and (min-device-width:992px)
+{
+.navbar-nav li a{padding:8px 11px!important;}
+.ss{margin-top: 20px;}
+}
+@media screen and (max-device-width:699px) and (min-device-width:300px)
+{
+    .fr{margin-left:2em;}
+}
+@media screen and (max-device-width:991px) and (min-device-width:350px)
+{
+    .about-right{margin-top:21em;}
+}
+@media screen and (max-width: 900px) and (min-width: 600px) 
+{
+  .navbar-nav li a{padding: 8px 14px !important;}
+  }
+@media screen and (max-device-width:1199px) and (min-device-width:991px)
+{
+.team_icons ul li{padding:0px;}
+}
+@media screen and (max-device-width:991px) and (min-device-width:768px)
+{
+.addtocart{padding:20px 23px!important;}
+}
+@media screen and (max-device-width:767px) and (min-device-width:350px)
+{
+.uy{margin-top:10px;margin-bottom: 10px}
+}
+@media screen and (max-device-width:991px) and (min-device-width:350px)
+{
+.ii{text-align: center;}
+}
+@media screen and (max-width:767px) and (min-device-width:350px)
+{
+.md{margin-top:20px;}
+}
+@media screen and (max-width:382px) and (min-device-width:350px)
+{
+.logi{font-size: 31px;}
+.jp label{font-size:12px;color:#000;font-weight:600;}
+}
+@media screen and (max-width:412px) and (min-device-width:350px)
+{
+.jp label{font-size:12px;color:#000;font-weight:600;}
+}
+@media screen and (max-width:568px)
+{
+.why_choose_us .care_tips{font-size:32px;}
+}
+@media screen and (max-width:687px)
+{
+.banner{margin-top:0em;}
+}
+@media screen and (max-width:440px)
+{
+.why_choose_us .care_tips{font-size:28px;}
+}
+@media screen and (max-width:350px)
+{
+.why_choose_us .care_tips{font-size:26px;}
+}
+
